@@ -9,4 +9,8 @@ public class Utility {
     public static String Test1() {
         return "Test";
     }
+
+    public static String Test2() {
+        return "Test2";
+    }
 }
