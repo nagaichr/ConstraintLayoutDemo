@@ -17,4 +17,8 @@ public class MainActivity extends AppCompatActivity {
     public String sayHello(){
         return "Hello Raghu";
     }
+
+    public String branch1Detail(){
+        return "branch1Detail";
+    }
 }
