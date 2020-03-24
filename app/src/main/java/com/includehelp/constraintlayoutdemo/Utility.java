@@ -13,4 +13,8 @@ public class Utility {
     public static String Test2() {
         return "Test2";
     }
+
+    public static String Test3() {
+        return "Test3";
+    }
 }
