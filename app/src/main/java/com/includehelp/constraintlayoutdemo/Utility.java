@@ -6,8 +6,12 @@ public class Utility {
         return "Raghu";
     }
 
-    public static String Test1() {
-        return "Test";
+    public static String PullDown(){
+        return "PullDown";
+    }
+
+    public static String PullDown1(){
+        return "PullDown1";
     }
 
     public static String Test2() {
